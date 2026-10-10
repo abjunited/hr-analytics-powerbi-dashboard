@@ -44,8 +44,8 @@ Attrition Rate = Attrition Count ÷ Total Employees (235 ÷ 1,464).
 ## Key Insights
 1. **Sales has the highest attrition by department (24.64%)**, followed by Human Resources (23.08%) and Administration (20.76%). Operations is lowest at 8.36%.
 2. **Sales Representatives leave most (39.51%)**, far above the company average of 16.05%. Research Directors (2.50%) and Managers (4.90%) are the most stable.
-3. **Young employees are the highest risk.** Ages 18-25 have 36.07% attrition, double the next group (26-35 at 18.97%).
-4. **Early tenure is the danger zone.** 180 of the 235 leavers (about 77%) left within their first 10 years at the company.
+3. **Young employees are the highest risk.** Ages 18-25 have 36.07% attrition, nearly double the next group (26-35 at 18.97%).
+4. **Most leavers have short tenure.** 180 of the 235 leavers (about 77%) had 10 years or less at the company.
 5. **Workforce profile:** 60% male (879) and 40% female (585); 53% married; most employees (71.24%) travel rarely.
 6. **Operations is the largest department (538 employees)** and also the most stable, which suggests its practices are worth studying.
 
